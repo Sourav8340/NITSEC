@@ -407,7 +407,9 @@ header{
     padding-bottom: 3rem;
 }
 .header_right-image{
-    margin-left: 8.5rem;
+    position: absolute;
+    left: 110px;
+    bottom: 100px;
 }
 /*categories*/
 .categories{
@@ -474,7 +476,9 @@ margin-top: 0;
      
      }
     .header_right-image{
-    margin-left: 8.5rem;
+     position: absolute;
+    left: 110px;
+    bottom: 100px;
 }
      /*categories*/
      .categories_right{
