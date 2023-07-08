@@ -471,7 +471,11 @@ margin-top: 0;
      .header_left p{
         margin-bottom: 1.3rem;
 
+     
      }
+    .header_right-image{
+    margin-left: 8.5rem;
+}
      /*categories*/
      .categories_right{
         grid-template-columns: 1fr 1fr;
