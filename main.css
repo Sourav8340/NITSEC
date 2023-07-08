@@ -406,7 +406,9 @@ header{
     gap: 0;
     padding-bottom: 3rem;
 }
-
+.header_right-image{
+    margin-left: 8.5rem;
+}
 /*categories*/
 .categories{
 height: auto;
